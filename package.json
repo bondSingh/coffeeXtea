@@ -1,0 +1,24 @@
+{
+  "name": "coffeextea",
+  "version": "1.0.0",
+  "description": "Make TEA not WAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bondSingh/coffeeXtea.git"
+  },
+  "keywords": [
+    "npm",
+    "tea.xyz",
+    "teasolo"
+  ],
+  "author": "Bond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bondSingh/coffeeXtea/issues"
+  },
+  "homepage": "https://github.com/bondSingh/coffeeXtea#readme"
+}
